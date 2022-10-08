@@ -1,0 +1,48 @@
+@media (max-width:1080px) {
+    .introducing {
+        height: 150vh;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .look-my-services {
+        height: 300px;
+    }
+
+    .look-my-services h3 {
+        padding: 15% 0 0 0;
+    }
+}
+
+@media (max-width: 680px){
+    .works-about-me {
+        width: 100vw;
+        height:300px;
+        align-items: center;
+        flex-direction: column;
+    }
+    .mini-box-works {
+        width: 70%;
+        margin-bottom: 10px;
+        margin-right: 0;
+    }
+    .mini-box-about-me{
+        margin-right: 0;
+        margin-top: 10px;
+        width: 70%;
+    }
+
+    .contact-me {
+        margin: 0 auto;
+        width: 70%;
+        height: 150px;
+    }
+    
+}
+
+@media (max-width: 490px) {
+    .look-my-services h3  {
+        padding-top: 23%;
+        font-size: 40px;
+    }
+}
