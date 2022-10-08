@@ -45,7 +45,7 @@ header h4 {
     justify-content: space-between;
     margin-left: 10px;
     height: 430px;
-    background: url(/imagens/background-front-end.png)
+    background: url(../imagens/background-front-end.png)
 }
 
 .look-my-services h3 { 
